@@ -44,7 +44,8 @@ Change your password to whatever you like
 
 ## 🌐 Step 3: Login to OpenVPN admin console
 
-1. Login
+1. Open your browser and login
+
 ```bash
 https://<iPv4 Public IP>:943/admin
 ```
